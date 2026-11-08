@@ -34,7 +34,6 @@ VocaVoice is a browser-based voice agent designed to help users improve their En
 - Daily vocabulary challenges.
 
 ## Live Demo
-Add your GitHub Pages URL here.
-
+(https://jagakv8.github.io/vocavoice-vocabulary-agent/)
 ## Developer
 Jagadeesh K V
